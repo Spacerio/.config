@@ -1,0 +1,23 @@
+lastupdatecheck: 0
+recentrepos:
+- /home/user/.config
+- /home/user/.dotfiles
+- /home/user/.oh-my-zsh
+- /home/user/projects/codewars/rust
+- /home/user/projects/ksp
+- /home/user/projects/test/fibonacci
+- /home/user/projects/test/t
+- /home/user/projects/web/server
+- /home/user/School
+- /home/user/projects/asm
+- /home/user/projects/snake
+startuppopupversion: 5
+customcommandshistory:
+- q
+- git add
+- ""
+- git rm -A
+- git rm -r
+- git merge master
+- quit
+hidecommandlog: false
